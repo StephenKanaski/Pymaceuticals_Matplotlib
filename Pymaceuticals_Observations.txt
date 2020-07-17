@@ -1,0 +1,20 @@
+1. The data suggests that Capomulin and Ramicane had the smallest mean and
+median concerning tumor volume. The mean and median in this case were derived
+from the total tumor volume over time. This suggests that both Capomulin and 
+Ramican showed the most promise in tumor shrinkage. These two regimens also
+showed the least amount of variance, stard error from the mean, and the
+smallest standard deviation showing that the efficacy of this drug across 
+multiple test subjects is pretty favorable.
+
+2. The gender distribution between test subjects was very close to equal
+which approximates the distribution of the general population. This is 
+favorable in data collection. The data also suggests a weakly moderate
+correlation (r=0.53) between specimen weight and tumor volume.
+
+3. When looking at the interquartile range, the lower, the middle, and the
+upper quartiles, Capomulin and Ramicane show not only a much tighter
+distribution but also show not outliers within the data. Ramicane's upper 
+quartile (45.22 mm3), lower quartile (22.05 mm3), and median (36.56 mm3) are
+lower than Capomulin's upper, lower, and median (47.69 mm3, 23.34 mm3, and
+38.13 mm3). This suggests that Ramicane may be a slightly more promising 
+regimen in Tumor recession.
