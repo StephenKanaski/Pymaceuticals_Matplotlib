@@ -6,6 +6,8 @@ Excerpts of visualized data:
 
 ![](TotalMiceperRegimenPyBar.png)
 
+![](GenderDistributionPyChart.png)
+
 ![](FinalTumorVolumeBoxPlot.png)
 
 ![](MassTumorVolumeScatterPlot.png)
