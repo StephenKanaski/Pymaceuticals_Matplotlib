@@ -11,5 +11,3 @@ Excerpts of visualized data:
 ![](FinalTumorVolumeBoxPlot.png)
 
 ![](MassTumorVolumeScatterPlot.png)
-
-![](Subjectx401TumorVolumeChange.png)
